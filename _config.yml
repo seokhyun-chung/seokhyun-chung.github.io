@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokhyun's Academic Page"
+title                    : "Seokhyun's Academic Webpage"
 title_separator          : "-"
 name                     : &name "Seokhyun Chung, Ph.D."
 description              : &description "Homepage under construction"
