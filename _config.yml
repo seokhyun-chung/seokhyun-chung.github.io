@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokhyun's Academic Webpage"
+title                    : "Dr. Seokhyun Chung"
 title_separator          : "-"
-name                     : &name "Seokhyun Chung, Ph.D."
+name                     : &name "Seokhyun Chung"
 description              : &description "Homepage under construction"
 url                      : https://seokhyun-chung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
