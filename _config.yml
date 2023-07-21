@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokhyun Chung / Site Title"
+title                    : "Seokhyun Chung's Homepage"
 title_separator          : "-"
 name                     : &name "Seokhyun Chung"
-description              : &description "personal description"
+description              : &description "Homepage under construction"
 url                      : https://seokhyun-chung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/seokhyun-chung.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Seokhyun Chung"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
