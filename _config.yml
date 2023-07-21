@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokhyun Chung's Homepage"
+title                    : "Seokhyun's Academic Page"
 title_separator          : "-"
-name                     : &name "Seokhyun Chung"
+name                     : &name "Seokhyun Chung, Ph.D."
 description              : &description "Homepage under construction"
 url                      : https://seokhyun-chung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "Charlottesville"
-  employer         : "University of Virginia"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Systems and Information Engineering \n University of Virginia"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=4hYcwMEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
