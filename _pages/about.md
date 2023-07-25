@@ -9,7 +9,6 @@ redirect_from:
 ---
 I am an assistant professor in [the Department of Systems and Information Engineering](https://engineering.virginia.edu/departments/systems-and-information-engineering) at the University of Virginia. 
 
-Research Interests
 ======
 I am interested in **data analytics for smart & connected systems**, where multiple entities/units (e.g., vehicles, wearable devices, etc.) collect data and are connected through Internet of Things (IoT) technologies. My research aims at the design and application of data-driven methods that transform a connected system into an intelligent system. To achieve this goal, I explore **collaborative data analytics** based on methods like federated learning, multi-task learning, and Bayesian probabilistic modeling, allowing entities/units to collaborate to establish enhanced smart analytics based on their connectivity. I am dedicated to addressing crucial challenges in collaborative data analytics to enable harnessing heterogeneous, real-time, and dynamic data for smart & connected systems. The methods developed have contributed to diverse smart & connected system applications, including **smart manufacturing** and **digital health**.
 
