@@ -14,7 +14,7 @@ Education
 * B.S. in Industrial & Management Engineering, Korea University, 2016
 * M.S. in Industrial & Management Engineering, Korea University, 2018
 * M.S. in Statistics, University of Michigan - Ann Arbor, 2023
-* Ph.D. in Industrial & Operations Engineering, University of Michigan, 2023
+* Ph.D. in Industrial & Operations Engineering, University of Michigan - Ann Arbor, 2023
 
 Work experience
 ======
