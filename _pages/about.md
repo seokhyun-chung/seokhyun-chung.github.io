@@ -1,14 +1,26 @@
 ---
 permalink: /
-title: "Homepage under construction"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an assistant professor in [the Department of Systems and Information Engineering](https://engineering.virginia.edu/departments/systems-and-information-engineering) at the University of Virginia. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Research Interests
+======
+I am interested in **data analytics for smart & connected systems**, where multiple entities/units (e.g., vehicles, wearable devices, etc.) collect data and are connected through Internet of Things (IoT) technologies. My research aims at the design and application of data-driven methods that transform a connected system into an intelligent system. To achieve this goal, I explore **collaborative data analytics** based on methods like federated learning, multi-task learning, and Bayesian probabilistic modeling, allowing entities/units to collaborate to establish enhanced smart analytics based on their connectivity. I am dedicated to addressing crucial challenges in collaborative data analytics to enable harnessing heterogeneous, real-time, and dynamic data for smart & connected systems. The methods developed have contributed to diverse smart & connected system applications, including **smart manufacturing** and **digital health**.
+
+
+- **Methodologies**: Federated analytics, Meta-learning, Multi-task learning, and Bayesian probabilistic modeling
+- **Applications**: IoT-enabled systems in healthcare and manufacturing domains
+
+
+
+
+
 
 A data-driven personal website
 ======
