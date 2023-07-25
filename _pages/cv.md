@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Industrial & Management Engineering, Korea University, 2016
@@ -26,22 +27,20 @@ Work experience
  
 * 2016 - 2018: Graduate Research Assistant
   * Industrial & Management Engineering, Korea University  
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* QSR Best paper competition finalist (general track), "Federated Multi-output Gaussian Processes," 2022 INFORMS Annual Conference.
+* QCRE Best paper finalist (student track), "Weakly-supervised Multi-output Regression via Correlated Gaussian Processes," 2021 IISE Annual Conference.
+* Featured Article, "The Internet of Federated Things (IoFT)," IEEE Access.
+* Rackham Predoctoral Fellowship, University of Michigan, 2022-2023 [[Link](https://rackham.umich.edu/discover-rackham/announcing-the-2022-2023-rackham-predoctoral-fellowship-awards/)].
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -54,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, Volunteering, and Activities
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for _AISTATS 2022/23, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, and Journal of Intelligent Manufacturing_. 
