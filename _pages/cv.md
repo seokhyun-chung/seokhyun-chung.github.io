@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial & Management Engineering, Korea University, 2016
+* M.S. in Industrial & Management Engineering, Korea University, 2018
+* M.S. in Statistics, University of Michigan - Ann Arbor, 2023
+* Ph.D. in Industrial & Operations Engineering, University of Michigan, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 - present: Assistant Professor
+  * Systems & Information Engineering, University of Virginia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2023: Graduate Research Assistant
+  * Industrial & Operations Engineering, University of Michigan - Ann Arbor
+ 
+* 2016 - 2018: Graduate Research Assistant
+  * Industrial & Management Engineering, Korea University  
   
 Skills
 ======
