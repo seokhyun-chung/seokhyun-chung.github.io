@@ -55,4 +55,4 @@ Teaching
   
 Service, Volunteering, and Activities
 ======
-* Reviewer for _AISTATS 2022/23, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, and Journal of Intelligent Manufacturing_. 
+* Reviewer for _AISTATS 2022/23, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, and Journal of Intelligent Manufacturing, and IISE Transactions_. 
