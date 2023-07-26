@@ -1,7 +1,7 @@
 ---
 title: "Weakly Supervised Multi-output Regression via Correlated Gaussian Processes"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/wsmgp
 excerpt: ''
 date: 2022-10-01
 venue: 'INFORMS Journal on Data Science'
