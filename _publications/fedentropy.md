@@ -1,5 +1,5 @@
 ---
-title: "Federated Condition Monitoring Signal Prediction With Improved Generalization"
+title: "Federated Condition Monitoring Signal Prediction with Improved Generalization"
 collection: publications
 permalink: /publication/fedentropy
 excerpt: ''
