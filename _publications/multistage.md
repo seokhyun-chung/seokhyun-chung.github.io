@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-01
 venue: 'IEEE Transactions on Automation Science and Engineering'
 paperurl: ''
-citation: 'Chung, S., Chou, C. H., Fang, X., Al Kontar, R., & Okwudire, C. (2022). A Multi-Stage Approach for Knowledge-Guided Predictions With Application to Additive Manufacturing. <i>IEEE Transactions on Automation Science and Engineering</i>, 19(3), 1675-1687.'
+citation: '<b>Chung, S.</b>, Chou, C. H., Fang, X., Al Kontar, R., & Okwudire, C. (2022). A Multi-Stage Approach for Knowledge-Guided Predictions With Application to Additive Manufacturing. <i>IEEE Transactions on Automation Science and Engineering</i>, 19(3), 1675-1687.'
 ---
 Inspired by sequential additive manufacturing operations, we consider prediction tasks arising in processes that comprise of sequential sub-operations and propose a multi-stage inference procedure that exploits prior knowledge of the operational sequence. Our approach decomposes a data-driven model into several easier problems each corresponding to a sub-operation and then introduces a Bayesian inference procedure to quantify and propagate uncertainty across operational stages. We also complement our model with an approach to incorporate physical knowledge of the output of a sub-operation which is often more practical in reality relative to understanding the physics of the entire process. Comprehensive simulations and two case studies on additive manufacturing show that the proposed framework provides well-quantified uncertainties and superior predictive accuracy compared to a single-stage predictive approach. 
 
