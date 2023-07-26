@@ -19,6 +19,6 @@ My research interests lie in **data analytics for smart & connected systems**, w
 News
 ======
 * **This webpage is under construction. Allow me a moment :)**
-* I like sharing research ideas on data analytics and connected system applications and am happy to discuss collaborative projects. If you find my work interesting or have any interest in potential collaborations, please don't hesitate to [email here](mailto:schung@virginia.edu)!
+* I like sharing research ideas on data analytics and connected system applications and am happy to discuss collaborative projects. If you find my work interesting or have any interest in potential collaborations, please don't hesitate to [email me](mailto:schung@virginia.edu)!
 * Jul 2023: Our paper "Federated Multi-output Gaussian Processes" has been accepted by _Technometrics_!
 * May 2023: Our paper "Federated Condition Monitoring Signal Prediction with Improved Generalization" has been accepted by _IEEE Transactions on Reliability_!
