@@ -28,7 +28,7 @@ Work experience
 * 2016 - 2018: Graduate Research Assistant
   * Industrial & Management Engineering, Korea University  
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
