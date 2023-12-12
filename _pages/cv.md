@@ -40,12 +40,6 @@ Awards
 * QCRE Best paper finalist (student track), "Weakly-supervised Multi-output Regression via Correlated Gaussian Processes," 2021 IISE Annual Conference.
 * Featured Article, "The Internet of Federated Things (IoFT)," IEEE Access.
 * Rackham Predoctoral Fellowship, University of Michigan, 2022-2023. [[Link](https://rackham.umich.edu/discover-rackham/announcing-the-2022-2023-rackham-predoctoral-fellowship-awards/)]
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
