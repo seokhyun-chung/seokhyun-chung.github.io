@@ -43,10 +43,8 @@ Awards
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [SYS 6021: Statistical Modeling I](https://sys-6021.github.io/) (FALL 2023)
+   
 Service, Volunteering, and Activities
 ======
 * Reviewer for _AISTATS 2022/23, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, and Journal of Intelligent Manufacturing, and IISE Transactions_. 
