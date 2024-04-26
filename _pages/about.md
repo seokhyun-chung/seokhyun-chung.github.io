@@ -19,9 +19,10 @@ My research interests lie in **data analytics for smart & connected systems**, w
 News
 ======
 * I like sharing research ideas on data analytics and connected system applications and am happy to discuss collaborative projects. If you find my work interesting or have any interest in potential collaborations, please don't hesitate to [email me](mailto:schung@virginia.edu)!
-* Mar 2024: Check out our new paper "[Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes](https://arxiv.org/abs/2403.16377)" - This paper proposes an extrapolation approach for time-series data featuring real-time adaptation of predictions to online data.    
+* Apr 2024: [Best paper award] Our paper "[Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes](https://arxiv.org/abs/2403.16377)" has been nominated as a finalist of the 2024 IISE QCRE Best Paper Competition! Looking forward to the presentation at 2024 IISE Annual Conference! 
+* Mar 2024: [New paper] Check out our new paper "[Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes](https://arxiv.org/abs/2403.16377)" - This paper proposes an extrapolation approach for time-series data featuring real-time adaptation of predictions to online data.    
 * Nov 2023: I gave a talk entitled "Probabilistic predictive analytics for collaborative systems" at [AIML Seminar at University of Virginia](https://uvaml.github.io/pasttalks/2023-11-01/).
 * Oct 2023: I gave a talk entitled "Fast Personalization for Heterogeneous Condition Monitoring Signals using Neural Processes" at 2023 INFORMS Annual Meeting.
 * Oct 2023: I gave a talk entitled "Probabilistic predictive analytics for collaborative systems" at Industrial and Systems Engineering at NCAT state University.
-* Jul 2023: Our paper "Federated Multi-output Gaussian Processes" has been accepted by _Technometrics_!
-* May 2023: Our paper "Federated Condition Monitoring Signal Prediction with Improved Generalization" has been accepted by _IEEE Transactions on Reliability_!
+* Jul 2023: [New paper] Our paper "Federated Multi-output Gaussian Processes" has been accepted by _Technometrics_!
+* May 2023: [New paper] Our paper "Federated Condition Monitoring Signal Prediction with Improved Generalization" has been accepted by _IEEE Transactions on Reliability_!
