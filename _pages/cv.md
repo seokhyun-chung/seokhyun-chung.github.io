@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Find my full CV [here](files/CV_SChung (1).pdf).
+Find my full CV [here]().
 
 
 Education
