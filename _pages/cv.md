@@ -36,6 +36,7 @@ Selected Publications
 
 Awards
 ======
+* QCRE Best paper competition finalist (general track), "Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes," 2024 IISE Annual Conference.
 * QSR Best paper competition finalist (general track), "Federated Multi-output Gaussian Processes," 2022 INFORMS Annual Conference.
 * QCRE Best paper finalist (student track), "Weakly-supervised Multi-output Regression via Correlated Gaussian Processes," 2021 IISE Annual Conference.
 * Featured Article, "The Internet of Federated Things (IoFT)," IEEE Access.
