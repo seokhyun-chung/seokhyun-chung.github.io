@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Find my full CV [here](https://myuva-my.sharepoint.com/:b:/r/personal/xjn6bu_virginia_edu/Documents/University%20of%20Virginia/0.%20SIE/SCHUNG_0824.pdf?csf=1&web=1&e=cEiGg0).
+Find my full CV [here](https://myuva-my.sharepoint.com/:b:/g/personal/xjn6bu_virginia_edu/EWJkc-4tcbxMiSMxDRY2O4QBQmk549ZZqAwI0_ZIm-oijg?e=GamGrA).
 
 
 Education
