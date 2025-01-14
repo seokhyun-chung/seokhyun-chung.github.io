@@ -19,7 +19,7 @@ My research interests lie in **data analytics for smart & connected systems**, w
 News
 ======
 * I like sharing research ideas on data analytics and connected system applications and am happy to discuss collaborative projects. If you find my work interesting or have any interest in potential collaborations, please don't hesitate to [email me](mailto:schung@virginia.edu)!
-* Jan 2024: [New paper] Our paper "Real-time Adaptation for Time-series Signal Prediction using Label-aware Neural Processes" has been accepted at _Reliability Engineering & System Safety_! 
+* Jan 2025: [New paper] Our paper "Real-time Adaptation for Time-series Signal Prediction using Label-aware Neural Processes" has been accepted at _Reliability Engineering & System Safety_! 
 * Oct 2024: [Conference presentation] Jingyi Gao, a PhD student in our lab, presented our work "Federated Automatic Variable Selection in Multi-output Gaussian Processes" at 2024 INFORMS Seattle!
 * Aug 2024: [Grant] I'll Co-PI the project "**ReDDDoT Phase 1: Planning Grant: Facilitating Responsible, Ethical, and Explainable Ergonomic Exposure Assessments when using Artificial Intelligence Methods**" sponsored by **National Science Foundation (NSF)**.
 * Jul 2024: [Grant] I'll Co-PI the project "**Contributing to Responsible Artificial Intelligence (AI)-Based 
