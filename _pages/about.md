@@ -19,7 +19,10 @@ My research interests lie in **data analytics for smart & connected systems**, w
 News
 ======
 * I like sharing research ideas on data analytics and connected system applications and am happy to discuss collaborative projects. If you find my work interesting or have any interest in potential collaborations, please don't hesitate to [email me](mailto:schung@virginia.edu)!
-* Jan 2025: [New paper] Our paper "Real-time Adaptation for Time-series Signal Prediction using Label-aware Neural Processes" has been accepted at _Reliability Engineering & System Safety_! 
+* Map 2025: [Publication] Our paper "An Optimization Model and Algorithm for Job Scheduling with Extra Resource Allocation in Shipbuilding", joint work with Cheonggi Park, Hyungjoo Cha, and Dr Taesu Cheong at Korea University, has been accepted at _International Journal of Production Research_!
+* Apr 2025: [New paper] Check out our new paper "[Fairness in Machine Learning-Based Hand Load Estimation: A Case Study on Load Carriage Tasks](https://arxiv.org/pdf/2504.05610)" with Arafat Rahman and Dr Sol Lim. This paper studies systemic biases in machine learning-based hand load estimation in the presence of imbalanced training population across male and female groups, and proposes a method to improve fairness in load prediction.
+* Apr 2025: [Grant] I'll serve as a PI for a project "AI-driven Realtime Gas Leak Localization using Artificial Olfactory Systems", sponsored by University of Virginia through the Research Innovation Award program. 
+* Jan 2025: [Publication] Our paper "Real-time Adaptation for Time-series Signal Prediction using Label-aware Neural Processes" has been accepted at _Reliability Engineering & System Safety_! 
 * Oct 2024: [Conference presentation] Jingyi Gao, a PhD student in our lab, presented our work "Federated Automatic Variable Selection in Multi-output Gaussian Processes" at 2024 INFORMS Seattle!
 * Aug 2024: [Grant] I'll Co-PI the project "**ReDDDoT Phase 1: Planning Grant: Facilitating Responsible, Ethical, and Explainable Ergonomic Exposure Assessments when using Artificial Intelligence Methods**" sponsored by **National Science Foundation (NSF)**.
 * Jul 2024: [Grant] I'll Co-PI the project "**Contributing to Responsible Artificial Intelligence (AI)-Based 
@@ -32,5 +35,5 @@ Preserving**" sponsored by **4-VA**.
 * Nov 2023: I gave a talk entitled "Probabilistic predictive analytics for collaborative systems" at [AIML Seminar at University of Virginia](https://uvaml.github.io/pasttalks/2023-11-01/).
 * Oct 2023: I gave a talk entitled "Fast Personalization for Heterogeneous Condition Monitoring Signals using Neural Processes" at 2023 INFORMS Annual Meeting.
 * Oct 2023: I gave a talk entitled "Probabilistic predictive analytics for collaborative systems" at Industrial and Systems Engineering at NCAT state University.
-* Jul 2023: [New paper] Our paper "Federated Multi-output Gaussian Processes" has been accepted by _Technometrics_!
-* May 2023: [New paper] Our paper "Federated Condition Monitoring Signal Prediction with Improved Generalization" has been accepted by _IEEE Transactions on Reliability_!
+* Jul 2023: [Publication] Our paper "Federated Multi-output Gaussian Processes" has been accepted by _Technometrics_!
+* May 2023: [Publication] Our paper "Federated Condition Monitoring Signal Prediction with Improved Generalization" has been accepted by _IEEE Transactions on Reliability_!
